@@ -1,0 +1,3 @@
+C:/Users/gromm/Desktop/Check_Snils/buildCMake/CMakeFiles/edit_cache.dir
+C:/Users/gromm/Desktop/Check_Snils/buildCMake/CMakeFiles/main.dir
+C:/Users/gromm/Desktop/Check_Snils/buildCMake/CMakeFiles/rebuild_cache.dir

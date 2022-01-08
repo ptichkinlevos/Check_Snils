@@ -1,0 +1,53 @@
+Папка buildCMake:
+d88c1b91abb29be4d9f8705a69afbb9b  .ninja_deps
+a5201e1f480413de91793f62334b2d3a  .ninja_log
+54907ef925c3703b4b87534b2654e338  build.ninja
+91916a224d6d18b47c40c174fd751885  cmake_install.cmake
+862c099da85c85c125c18ed488a2f36e  CMakeCache.txt
+ad6fa0ca6a3363986592a77a92c8700f  main.exe
+
+Папка buildCMake\CMakeFiles:
+0d3cd62d7961aab538bda2005955cef3  cmake.check_cache
+b1aab595123979e152cc46cf2ecd1020  CMakeOutput.log
+5b4d92319b5cc80cc6e0649f0c78b40c  rules.ninja
+282b91d68ac1f87271e8efb500815351  TargetDirectories.txt
+
+Папка buildCMake\CMakeFiles\3.21.1:
+5f1710719f2808fc4f107b5e27b64a83  CMakeCCompiler.cmake
+c138979678d536aa9c896e6a5639852d  CMakeCXXCompiler.cmake
+aa95788b826ad9729f9f2a9abd4eb9d0  CMakeDetermineCompilerABI_C.bin
+7c3d6338682f4527df2cc25d9e85290d  CMakeDetermineCompilerABI_CXX.bin
+6ecfaca1c7a506ca0b846818825be8ed  CMakeRCCompiler.cmake
+8adfbbfa5c83cc07a3a0a06de5b70ad8  CMakeSystem.cmake
+
+Папка buildCMake\CMakeFiles\3.21.1\CompilerIdC:
+7b64fbdef40c8881fb73ef27ce4e809a  a.exe
+e3b9d81dbd9478514ae09565ced61d56  CMakeCCompilerId.c
+
+Папка buildCMake\CMakeFiles\3.21.1\CompilerIdCXX:
+87dca0e7e468c9e1eb0aa6aa22a21fb6  a.exe
+5b51ae979a75e51487fba09b4786309a  CMakeCXXCompilerId.cpp
+
+Папка buildCMake\CMakeFiles\main.dir\SNILS:
+41ac8ed7e170b623dde633986d0695f1  main.cpp.obj
+
+Папка build-SNILS-Desktop_Qt_6_2_2_MinGW_64_bit-Debug:
+fc7cf018b6f24b2f1abe54040fdb76ff  .qmake.stash
+0e2f229b104010553784b089a21c3f9c  Makefile
+5c5a27793e4a100b9cca87ca36d7615f  Makefile.Debug
+e13e38f7ddc73520f22b48f1ccdb44e4  Makefile.Release
+3a5429356937e04e18507dbe2ed14816  sampleDB.db
+
+Папка build-SNILS-Desktop_Qt_6_2_2_MinGW_64_bit-Debug\debug:
+9ea772bc8afc76e6dbe1a95ea5b48a19  main.o
+0c008aa8a66e8288836d092b40afca0d  SNILS.exe
+
+Папка SNILS:
+4e320f89f7cb536db8872b8a5576b5c7  functions.h
+e70760fe1124ecece0c2ad344f28faaa  generator.cpp
+a1cdb51ad7128d52dab064d37bdaf757  main.cpp
+c01c08639020cac2118e5a45e4223e93  SNILS.pro
+db57374b38b723f198aed4d869817ba1  SNILS.pro.user
+
+Папка Главный каталог (Check_Snils):
+8be5ac9a36dd36c59fcd70fd9f0ee585  Snils_db.backup
